@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "BreathAnalyzer.ino",
+    "port": "COM8"
+}
